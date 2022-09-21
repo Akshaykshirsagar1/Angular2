@@ -1,5 +1,14 @@
-table ,th,td {
+table, th,td {
     border: 2px solid blueviolet;
     margin-left: 500px ;
     width: 40%;
+    text-align: center;
 }
+input{
+    margin-left: 500px;
+    margin-bottom: 20px;
+}
+.b{
+    margin-left: 20px;
+}
+
